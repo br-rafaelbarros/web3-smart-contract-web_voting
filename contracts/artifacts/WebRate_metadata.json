@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/WebRate.sol": "WebRate"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/WebRate.sol": {
+			"keccak256": "0xce9ce256f79ec34ec75da48a5cfb60bdfcedfdf8ef7dac683a2591df1233421f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d75ca83d1b74812f450c30b5ef8143ae0b15178fdb1445bdf199a5e2d246e7f6",
+				"dweb:/ipfs/QmRJEZSqJZ4i17hC33RbhS8sFnM8Lm1g6DC7AHqepMgoWY"
+			]
+		}
+	},
+	"version": 1
+}
